@@ -1,2 +1,2 @@
 # program1
-program on c language
+program on array using c language
